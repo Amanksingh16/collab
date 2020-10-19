@@ -6,7 +6,7 @@ Start the Java Application by running the MainAdapter inside com.collab.adapter.
 
 Frontend-
 
-Download and extract the Collab_FrontEnd.rar and using cmd, move inside the project directory and run "npm start"
+Download ReactJS Code from Collab_React Directory and using cmd, move inside the project directory and run "npm start"
 http://localhost:3000
 
 
